@@ -1,4 +1,4 @@
-#Chapter 1 Cloud Computer notes taking 
+# Chapter 1 Cloud Computer notes taking 
 # 1.1	What is information technology (IT)? – What is information technology? A beginner’s guide to the world of IT.
 ##•	A specialist who solves computer issues = the application of technology to solve business or organizational problems on a broad scale.
 ##•	Vital necessity for today's economy and business - It helps functionalize and maintain daily tasks for a business environment.
@@ -28,7 +28,7 @@
 ##•	Computer science: The foundation of information technology
 ##•	Utilize computer science knowledge to design, create and enhance program and software systems."
  
-#1.2	Why is information technology important?
+# 1.2	Why is information technology important?
 ##•	Information technology is vital for utilizing cloud computing as it forms the foundation for computer operations, including hardware, software, troubleshooting, and networking understanding
 ##•	Proficiency in information technology is crucial for navigating computer systems effectively, especially with the growing importance of cloud computing driven by data influx
 ##•	Solid understanding of hardware and software is essential to maintain seamless cloud computing systems, supporting diverse industries
@@ -40,7 +40,7 @@
 
 
  
-#1.3	Hardware V.S Software
+# 1.3	Hardware V.S Software
 ##•	Hardware: Physical components including CPU, RAM, hard drives, as well as external peripherals like keyboards and printers
 ##•	Software: Digital data, application code, and programs, such as operating systems or document editors, are not physically touchable
 ##•	Hardware Clouding: Cloud environment mirrors physical hardware with virtual CPU, RAM, and Hard Drives running on shared specialized hardware
@@ -48,7 +48,7 @@
 
 
  
-#1.4	The Four Pillars of an IT Framework
+# 1.4	The Four Pillars of an IT Framework
 ##•	Infrastructure: This involves both hardware and software, providing services and support to meet user requirements in these IT components.
 ##•	Development: This encompasses the entire process of creating and structuring software applications.
 ##•	Security: It's focused on ensuring data security, safeguarding critical information, and protecting against unauthorized access and viruses.
@@ -56,7 +56,7 @@
 
 
  
-#1.5	 & 1.6 &1.7 Common Terminology in IT: Introduction 
+# 1.5	 & 1.6 &1.7 Common Terminology in IT: Introduction 
 ##•	 Be familiar with desktop component and job roles in IT:
 ####o	Components:
 ######	Motherboard
@@ -65,7 +65,7 @@
 ######	Hard Drive
 
  
-#1.8, 1.9, 1.10, 1.11, 1.12, 1.13 & 1.14 Terminology: 
+# 1.8, 1.9, 1.10, 1.11, 1.12, 1.13 & 1.14 Terminology: 
 ##•	Motherboard: main circuit board of the computer ( ask main board or system board)
 ##•	Firmware / BIOS: Basic Input/Output System; is a program pre-installed in windows-based computer 
 ##•	CPU: primary component of a computer that processes instructions. 
@@ -85,21 +85,21 @@
 ######	Output: speaker, monitors….
 
  
-#1)	Summarize a few key points made in the readings or videos.
+# 1)	Summarize a few key points made in the readings or videos.
 (1)	Overall key point: 
 (a)	IT is essential for solving business problems on a large scale and maintaining daily tasks in modern businesses.
 (b)	It addresses challenges like data overload, mobile and wireless usage, cloud computing, video hosting, AI, machine learning, and cybersecurity.
 (c)	Proficiency in IT enables effective navigation of computer systems and empowers businesses to leverage cloud computing advantages.
-#2)	Identify and provide two quotes that were made in the readings or videos, that you found interesting. Describe why you found each quote of them interesting.
+# 2)	Identify and provide two quotes that were made in the readings or videos, that you found interesting. Describe why you found each quote of them interesting.
 (1)	“IT can provide the edge a company needs to outsmart, outpace and out-deliver competitors” (module 1.2)
 (a)	This quote has told how Information Technology can enable businesses to surpass competitors through innovation and efficiency
 (2)	“In order to understand how broad information technology is, you should first understand some of the varying roles. Each role has a specialized focus such as analyists, scientists, architects, programmers and administrators” (module 1.6)
 (a)	The quote emphasizes that the potential of cloud computing extends beyond just technology; it's also about enhancing scalability, efficiency, and security.
-#3)	Outline the new facts that you learned from this section?
+# 3)	Outline the new facts that you learned from this section?
 (1)	The importance of information technology
 (2)	How information technology is paying a control role in modern business
 (3)	How information technology work close to other field to improve/update the system 
-#4)	What questions remain in your mind after reading this section?
+# 4)	What questions remain in your mind after reading this section?
 (1)	To become an IT specialist, which is more important: coding skills or familiarity with software functioning?
 
 
