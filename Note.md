@@ -11,34 +11,60 @@
 ##•	Software: Data, files, and programs ...etc that store locally(electrically) on the PC
 
 ##•	Information technology is important is because it can assist/address the following issues:
+
 ##•	Data overload issues
+
 ##•	Mobile and wireless usage: remote working 
+
 ##•	Cloud computing services: it gives scalability for storing massive amounts of data on business platforms 
+
 ##•	Video hosting and bandwidth issues: remote work become more and more popular
+
 ##•	AI and machine learning: current mainstay in the business role
+
 ##•	Cybersecurity
+
 ##•	The elevation of information technology: a dynamic field 
+
 ##•	Helps in adapting and acquiring new skills in IT field
+
 ##•	Information technology has a promising outlook
+
 ##•	The demand grows rapidly 
+
 ##•	Understanding the scope of information technology
+
 ##•	A wide range of disciplines and responsibility in information technology provide a broad scope of IT position
+
 ##•	Data: The driving force of information technology
+
 ##•	Data serves as the foundation in information technology, playing a significant role in modern business
+
 ##•	Central role in modern business 
+
 ##•	The role of database management software in information technology
+
 ##•	Organize and manage data for business; scalability and efficiency 
+
 ##•	The integration of information technology in business operations
+
 ##•	Stay competitive and work closely with various fields and keeping information updated
+
 ##•	Computer science: The foundation of information technology
+
 ##•	Utilize computer science knowledge to design, create and enhance program and software systems."
  
 # 1.2	Why is information technology important?
 ##•	Information technology is vital for utilizing cloud computing as it forms the foundation for computer operations, including hardware, software, troubleshooting, and networking understanding
+
 ##•	Proficiency in information technology is crucial for navigating computer systems effectively, especially with the growing importance of cloud computing driven by data influx
+
 ##•	Solid understanding of hardware and software is essential to maintain seamless cloud computing systems, supporting diverse industries
+
 ##•	Cloud computing provides scalability and efficiency, offering online services and global data access, bolstering security through IT skills
+
 ##•	Information technology expedites customer service and data protection, serving as the modern business model that enhances operations
+
 ##•	Ultimately, information technology empowers businesses to leverage cloud computing's advantages while ensuring reliability and security
 
 
@@ -47,16 +73,22 @@
  
 # 1.3	Hardware V.S Software
 ##•	Hardware: Physical components including CPU, RAM, hard drives, as well as external peripherals like keyboards and printers
+
 ##•	Software: Digital data, application code, and programs, such as operating systems or document editors, are not physically touchable
+
 ##•	Hardware Clouding: Cloud environment mirrors physical hardware with virtual CPU, RAM, and Hard Drives running on shared specialized hardware
+
 ##•	Software Clouding: Software operates in the cloud as on physical hardware, but on virtual hardware
 
 
  
 # 1.4	The Four Pillars of an IT Framework
 ##•	Infrastructure: This involves both hardware and software, providing services and support to meet user requirements in these IT components.
+
 ##•	Development: This encompasses the entire process of creating and structuring software applications.
+
 ##•	Security: It's focused on ensuring data security, safeguarding critical information, and protecting against unauthorized access and viruses.
+
 ##•	Data: Refers to all information processed or stored by a computer, which can be saved locally or in cloud-based storage
 
 
