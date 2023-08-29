@@ -1,3 +1,4 @@
+#Chapter 1 Cloud Computer notes taking 
 # 1.1	What is information technology (IT)? – What is information technology? A beginner’s guide to the world of IT.
 ##•	A specialist who solves computer issues = the application of technology to solve business or organizational problems on a broad scale.
 ##•	Vital necessity for today's economy and business - It helps functionalize and maintain daily tasks for a business environment.
